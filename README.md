@@ -1,6 +1,6 @@
 <h1 align="center">Chatnoir</h1>
 <div align="center">
-  <img width="1200" height="400" alt="image" src="https://github.com/user-attachments/assets/6756d0d8-24a0-4fad-90a7-9fbee637fb0b" />
+  <img width="1200" height="200" alt="image" src="https://github.com/user-attachments/assets/6756d0d8-24a0-4fad-90a7-9fbee637fb0b" />
 </div>
 
 
