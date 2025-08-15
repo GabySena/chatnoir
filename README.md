@@ -10,3 +10,10 @@
 
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/22ad3f77-f3da-4313-b27d-10e2e602534f" />
+
+
+<h2>Participação:</h2>
+[Lohany Macedo](https://github.com/Lohanyy17)
+[Catarine Tomaz](https://github.com/tomazzcatarine)
+[Mirele Victoria](https://github.com/Mvictoria218)
+
